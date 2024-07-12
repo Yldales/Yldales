@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on TALL application with the awesome [FilamentPHP](https://filamentphp.com/).
 - 🌱 I’m currently learning front-end frameworks ([VueJS](https://vuejs.org/)) and 3D modeling.
 - 👀 I'm interested in working on web development projects, world-building projects, or all that's Minecraft-related.
+- 🐉 Also, dragons.
 
 <!--
 **Yldales/Yldales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
