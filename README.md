@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a TALL application with the awesome [FilamentPHP](https://filamentphp.com/).
+- 🔭 I’m currently working on a TALL application related to Path of Titans server hosting & management.
 - 🌱 I’m currently learning front-end frameworks ([VueJS](https://vuejs.org/)) and 3D modeling.
 - 👀 I'm interested in working on web development projects, world-building projects, or all that's Minecraft-related.
 - 🐉 Also, dragons.
