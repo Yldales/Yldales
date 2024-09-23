@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a TALL application related to Path of Titans server hosting & management.
-- 🌱 I’m currently learning front-end frameworks ([VueJS](https://vuejs.org/)) and 3D modeling.
-- 👀 I'm interested in working on web development projects, world-building projects, or all that's Minecraft-related.
+- 🔭 Currently working on a TALL application related to Path of Titans server hosting & management.
+- 🌱 Currently learning front-end frameworks ([VueJS](https://vuejs.org/)) and 3D modeling.
+- 👀 Interested in working on web development projects, world-building projects, or all that's Minecraft-related in a team.
 - 🐉 Also, dragons.
 
 <!--
